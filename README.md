@@ -8,11 +8,13 @@ The implementation is tested on the problem of controlling the steering wheel of
 `python dagger.py`
 
 ## Requirements
-
+RH: I run on Ubuntu 18.04
 1. Python 3.0
 2. Keras with Tensorflow backend
 3. Numpy
-4. [Gym-TORCS](https://github.com/ugo-nama-kun/gym_torcs)
+4. [Gym-TORCS](https://github.com/ugo-nama-kun/gym_torcs) [install gym](https://github.com/openai/gym) install torcs: `sudo apt-get install torcs`
+
+5. (added) install [xautomation](http://zoomadmin.com/HowToInstall/UbuntuPackage/xautomation)
 
 ## Results
 
